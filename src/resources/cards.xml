@@ -1,0 +1,5347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cards>
+   <card>
+      <name>Draw Two</name>
+      <set>PR</set>
+      <id>PR---3</id>
+      <color>U</color>
+      <cost>1U 1C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Miko of the New Moon Tamayorihime</name>
+      <set>PR</set>
+      <id>PR-001</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Hanayo - Zero</name>
+      <set>PR</set>
+      <id>PR-002</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk</name>
+      <set>PR</set>
+      <id>PR-003</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Fighter Girl Midoriko</name>
+      <set>PR</set>
+      <id>PR-004</id>
+      <color>G</color>
+      <cost>0G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Tama</name>
+      <set>PR</set>
+      <id>PR-005</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Hanayo</name>
+      <set>PR</set>
+      <id>PR-006</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Piruluk</name>
+      <set>PR</set>
+      <id>PR-007</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Midoriko</name>
+      <set>PR</set>
+      <id>PR-008</id>
+      <color>G</color>
+      <cost>0G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Miko of the New Moon Tamayorihime</name>
+      <set>PR</set>
+      <id>PR-009</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Hanayo - Zero</name>
+      <set>PR</set>
+      <id>PR-010</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk</name>
+      <set>PR</set>
+      <id>PR-011</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Fighter Girl Midoriko</name>
+      <set>PR</set>
+      <id>PR-012</id>
+      <color>G</color>
+      <cost>0G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Miko of the New Moon Tamayorihime</name>
+      <set>PR</set>
+      <id>PR-013</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Hanayo - Zero</name>
+      <set>PR</set>
+      <id>PR-014</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk</name>
+      <set>PR</set>
+      <id>PR-015</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Fighter Girl Midoriko</name>
+      <set>PR</set>
+      <id>PR-016</id>
+      <color>G</color>
+      <cost>0G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Medium Lance Hastall</name>
+      <set>PR</set>
+      <id>PR-017</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Mithril</name>
+      <set>PR</set>
+      <id>PR-018</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>15000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>TREASURE</name>
+      <set>PR</set>
+      <id>PR-019</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Reinforcement</name>
+      <set>PR</set>
+      <id>PR-020</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Dominating Fury</name>
+      <set>PR</set>
+      <id>PR-021</id>
+      <color>R</color>
+      <cost>3R</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase] or [Attack phase]</timing>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Baroque Defense</name>
+      <set>PR</set>
+      <id>PR-022</id>
+      <color>W</color>
+      <cost>2W</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Attack phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Medium Lance Hastall</name>
+      <set>PR</set>
+      <id>PR-026</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Mithril</name>
+      <set>PR</set>
+      <id>PR-027</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>15000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>TREASURE</name>
+      <set>PR</set>
+      <id>PR-028</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Reinforcement</name>
+      <set>PR</set>
+      <id>PR-029</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Get Index</name>
+      <set>PR</set>
+      <id>PR-030</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Gunpowder Smoke Frenzy</name>
+      <set>PR</set>
+      <id>PR-031</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Code Art M . G . T</name>
+      <set>PR</set>
+      <id>PR-032</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Rosaly</name>
+      <set>PR</set>
+      <id>PR-033</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Gravekeeper Imp Alma</name>
+      <set>PR</set>
+      <id>PR-034</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Get Index</name>
+      <set>PR</set>
+      <id>PR-035</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Gunpowder Smoke Frenzy</name>
+      <set>PR</set>
+      <id>PR-036</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Code Art M . G . T</name>
+      <set>PR</set>
+      <id>PR-037</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Rosaly</name>
+      <set>PR</set>
+      <id>PR-038</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Gravekeeper Imp Alma</name>
+      <set>PR</set>
+      <id>PR-039</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Xeno Multiple</name>
+      <set>PR</set>
+      <id>PR-040</id>
+      <color>W</color>
+      <cost>2W 2U</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main Phase] or [Attack Phase]</timing>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Eldora x Mark 0</name>
+      <set>PR</set>
+      <id>PR-041</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Eldora</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Yuzuki - Zero</name>
+      <set>PR</set>
+      <id>PR-042</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Yuzuki</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>PR</rarity>
+   </card>
+   <card>
+      <name>Miko of the Full Moon Tama</name>
+      <set>SP01</set>
+      <id>SP01-001</id>
+      <color>W</color>
+      <cost>3W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the Gibbous Moon Tama</name>
+      <set>SP01</set>
+      <id>SP01-002</id>
+      <color>W</color>
+      <cost>2W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>3</level>
+      <limit>8</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the Half Moon Tama</name>
+      <set>SP01</set>
+      <id>SP01-003</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>2</level>
+      <limit>5</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the Crescent Moon Tama</name>
+      <set>SP01</set>
+      <id>SP01-004</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>1</level>
+      <limit>2</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the New Moon Tama</name>
+      <set>SP01</set>
+      <id>SP01-005</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Rococo Boundary</name>
+      <set>SP01</set>
+      <id>SP01-006</id>
+      <color>W</color>
+      <cost>3W 2C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Avon</name>
+      <set>SP01</set>
+      <id>SP01-007</id>
+      <color>W</color>
+      <cost>3W</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Baroque Defense</name>
+      <set>SP01</set>
+      <id>SP01-008</id>
+      <color>W</color>
+      <cost>2W</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Attack phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Spirit Salvage</name>
+      <set>SP01</set>
+      <id>SP01-009</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main Phase] or [Attack Phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Modern Boundary</name>
+      <set>SP01</set>
+      <id>SP01-010</id>
+      <color>W</color>
+      <cost>1W 1C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing>[Main Phase] or [Attack Phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Armor Suit Romail</name>
+      <set>SP01</set>
+      <id>SP01-011</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Greatsword Caliburn</name>
+      <set>SP01</set>
+      <id>SP01-012</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>10000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Gauntlet Tlet</name>
+      <set>SP01</set>
+      <id>SP01-013</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Medium Sword Flamber</name>
+      <set>SP01</set>
+      <id>SP01-014</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>7000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Shortsword Kukri</name>
+      <set>SP01</set>
+      <id>SP01-015</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>3000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Short Bow Bownia</name>
+      <set>SP01</set>
+      <id>SP01-016</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Get Bible</name>
+      <set>SP01</set>
+      <id>SP01-017</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant D</name>
+      <set>SP01</set>
+      <id>SP01-018</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant O</name>
+      <set>SP01</set>
+      <id>SP01-019</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Surging Knowledge</name>
+      <set>SP01</set>
+      <id>SP01-020</id>
+      <color>C</color>
+      <cost>0C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the Full Moon Tamayorihime</name>
+      <set>WD01</set>
+      <id>WD01-001</id>
+      <color>W</color>
+      <cost>3W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the Gibbous Moon Tamayorihime</name>
+      <set>WD01</set>
+      <id>WD01-002</id>
+      <color>W</color>
+      <cost>2W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>3</level>
+      <limit>8</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the Half Moon Tamayorihime</name>
+      <set>WD01</set>
+      <id>WD01-003</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>2</level>
+      <limit>5</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the Crescent Moon Tamayorihime</name>
+      <set>WD01</set>
+      <id>WD01-004</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>1</level>
+      <limit>2</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Miko of the New Moon Tamayorihime</name>
+      <set>WD01</set>
+      <id>WD01-005</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Rococo Boundary</name>
+      <set>WD01</set>
+      <id>WD01-006</id>
+      <color>W</color>
+      <cost>3W 2C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Avon</name>
+      <set>WD01</set>
+      <id>WD01-007</id>
+      <color>W</color>
+      <cost>3W</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Baroque Defense</name>
+      <set>WD01</set>
+      <id>WD01-008</id>
+      <color>W</color>
+      <cost>2W</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Attack phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Armor Suit Romail</name>
+      <set>WD01</set>
+      <id>WD01-009</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Greatsword Caliburn</name>
+      <set>WD01</set>
+      <id>WD01-010</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>10000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Gauntlet Tlet</name>
+      <set>WD01</set>
+      <id>WD01-011</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Medium Sword Flamber</name>
+      <set>WD01</set>
+      <id>WD01-012</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>7000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Shortsword Kukri</name>
+      <set>WD01</set>
+      <id>WD01-013</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>3000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Short Bow Bownia</name>
+      <set>WD01</set>
+      <id>WD01-014</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Get Bible</name>
+      <set>WD01</set>
+      <id>WD01-015</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant D</name>
+      <set>WD01</set>
+      <id>WD01-016</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant O</name>
+      <set>WD01</set>
+      <id>WD01-017</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Surging Knowledge</name>
+      <set>WD01</set>
+      <id>WD01-018</id>
+      <color>C</color>
+      <cost>0C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Hanayo - Four</name>
+      <set>WD02</set>
+      <id>WD02-001</id>
+      <color>R</color>
+      <cost>3R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Hanayo - Three</name>
+      <set>WD02</set>
+      <id>WD02-002</id>
+      <color>R</color>
+      <cost>2R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>3</level>
+      <limit>8</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Hanayo - Two</name>
+      <set>WD02</set>
+      <id>WD02-003</id>
+      <color>R</color>
+      <cost>1R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>2</level>
+      <limit>5</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Hanayo - One</name>
+      <set>WD02</set>
+      <id>WD02-004</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>1</level>
+      <limit>2</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Hanayo - Zero</name>
+      <set>WD02</set>
+      <id>WD02-005</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Swarm of Sparks</name>
+      <set>WD02</set>
+      <id>WD02-006</id>
+      <color>R</color>
+      <cost>3R</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Surrounding Fire</name>
+      <set>WD02</set>
+      <id>WD02-007</id>
+      <color>R</color>
+      <cost>2R</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Burning Stone Fire</name>
+      <set>WD02</set>
+      <id>WD02-008</id>
+      <color>R</color>
+      <cost>1R 1C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Volcano</name>
+      <set>WD02</set>
+      <id>WD02-009</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Silven</name>
+      <set>WD02</set>
+      <id>WD02-010</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>10000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Garnet</name>
+      <set>WD02</set>
+      <id>WD02-011</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Bronda</name>
+      <set>WD02</set>
+      <id>WD02-012</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>7000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Iron</name>
+      <set>WD02</set>
+      <id>WD02-013</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>3000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Amethyst</name>
+      <set>WD02</set>
+      <id>WD02-014</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Roaring Pillar of Fire</name>
+      <set>WD02</set>
+      <id>WD02-015</id>
+      <color>R</color>
+      <cost>1R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant D</name>
+      <set>WD02</set>
+      <id>WD02-016</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant O</name>
+      <set>WD02</set>
+      <id>WD02-017</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Surging Knowledge</name>
+      <set>WD02</set>
+      <id>WD02-018</id>
+      <color>C</color>
+      <cost>0C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk T</name>
+      <set>WD03</set>
+      <id>WD03-001</id>
+      <color>U</color>
+      <cost>3U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk G</name>
+      <set>WD03</set>
+      <id>WD03-002</id>
+      <color>U</color>
+      <cost>2U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>3</level>
+      <limit>8</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk M</name>
+      <set>WD03</set>
+      <id>WD03-003</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>2</level>
+      <limit>5</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk K</name>
+      <set>WD03</set>
+      <id>WD03-004</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>1</level>
+      <limit>2</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk</name>
+      <set>WD03</set>
+      <id>WD03-005</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Peeping Analyze</name>
+      <set>WD03</set>
+      <id>WD03-006</id>
+      <color>U</color>
+      <cost>3U</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Don't Move</name>
+      <set>WD03</set>
+      <id>WD03-007</id>
+      <color>U</color>
+      <cost>3U</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Attack phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Draw Two</name>
+      <set>WD03</set>
+      <id>WD03-008</id>
+      <color>U</color>
+      <cost>1U 1C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Art R . M . N</name>
+      <set>WD03</set>
+      <id>WD03-009</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Art D . R . S</name>
+      <set>WD03</set>
+      <id>WD03-010</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>10000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Art S . M . P</name>
+      <set>WD03</set>
+      <id>WD03-011</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Art J . V</name>
+      <set>WD03</set>
+      <id>WD03-012</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>7000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Art S . C</name>
+      <set>WD03</set>
+      <id>WD03-013</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>3000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Code Art R . F . R</name>
+      <set>WD03</set>
+      <id>WD03-014</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>TOO BAD</name>
+      <set>WD03</set>
+      <id>WD03-015</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant D</name>
+      <set>WD03</set>
+      <id>WD03-016</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant O</name>
+      <set>WD03</set>
+      <id>WD03-017</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Surging Knowledge</name>
+      <set>WD03</set>
+      <id>WD03-018</id>
+      <color>C</color>
+      <cost>0C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Fourth Girl Midoriko</name>
+      <set>WD04</set>
+      <id>WD04-001</id>
+      <color>G</color>
+      <cost>3G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Third Girl Midoriko</name>
+      <set>WD04</set>
+      <id>WD04-002</id>
+      <color>G</color>
+      <cost>2G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>3</level>
+      <limit>8</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Second Girl Midoriko</name>
+      <set>WD04</set>
+      <id>WD04-003</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>2</level>
+      <limit>5</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>First Girl Midoriko</name>
+      <set>WD04</set>
+      <id>WD04-004</id>
+      <color>G</color>
+      <cost>0G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>1</level>
+      <limit>2</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Fighter Girl Midoriko</name>
+      <set>WD04</set>
+      <id>WD04-005</id>
+      <color>G</color>
+      <cost>0G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>All Yell</name>
+      <set>WD04</set>
+      <id>WD04-006</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing>[Main Phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Wake Up</name>
+      <set>WD04</set>
+      <id>WD04-007</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main Phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Big Wave</name>
+      <set>WD04</set>
+      <id>WD04-008</id>
+      <color>G</color>
+      <cost>3G</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main Phase] or [Attack Phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Seiryu</name>
+      <set>WD04</set>
+      <id>WD04-009</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Misuzaku</name>
+      <set>WD04</set>
+      <id>WD04-010</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Bigtat</name>
+      <set>WD04</set>
+      <id>WD04-011</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Koalan</name>
+      <set>WD04</set>
+      <id>WD04-012</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Ko-Genbu</name>
+      <set>WD04</set>
+      <id>WD04-013</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Pandan</name>
+      <set>WD04</set>
+      <id>WD04-014</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Hyakko</name>
+      <set>WD04</set>
+      <id>WD04-015</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant Q2</name>
+      <set>WD04</set>
+      <id>WD04-016</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>10000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant O2</name>
+      <set>WD04</set>
+      <id>WD04-017</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Entanglement</name>
+      <set>WD04</set>
+      <id>WD04-018</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Enma of Hell's Torments, Ulith</name>
+      <set>WD05</set>
+      <id>WD05-001</id>
+      <color>B</color>
+      <cost>3B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Enma of the Uninterrupted Hell, Ulith</name>
+      <set>WD05</set>
+      <id>WD05-002</id>
+      <color>B</color>
+      <cost>2B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>3</level>
+      <limit>8</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Enma of the Crushing Hell, Ulith</name>
+      <set>WD05</set>
+      <id>WD05-003</id>
+      <color>B</color>
+      <cost>1B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>2</level>
+      <limit>5</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Incandescent Enma Ulith</name>
+      <set>WD05</set>
+      <id>WD05-004</id>
+      <color>B</color>
+      <cost>0B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>1</level>
+      <limit>2</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Enma Ulith</name>
+      <set>WD05</set>
+      <id>WD05-005</id>
+      <color>B</color>
+      <cost>0B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Moment Punish</name>
+      <set>WD05</set>
+      <id>WD05-006</id>
+      <color>B</color>
+      <cost>2B</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main Phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Eternal Banish</name>
+      <set>WD05</set>
+      <id>WD05-007</id>
+      <color>B</color>
+      <cost>3B</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main Phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Grave Out</name>
+      <set>WD05</set>
+      <id>WD05-008</id>
+      <color>B</color>
+      <cost>5B</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Depraved Gunner Metsumu</name>
+      <set>WD05</set>
+      <id>WD05-009</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Symbol of Wicked Waste Belze</name>
+      <set>WD05</set>
+      <id>WD05-010</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>10000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Depraved Gunner Carri</name>
+      <set>WD05</set>
+      <id>WD05-011</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Symbol of Immorality Cosmo</name>
+      <set>WD05</set>
+      <id>WD05-012</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>7000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Symbol of Lesser Evil Ko-Oni</name>
+      <set>WD05</set>
+      <id>WD05-013</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>3000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Depraved Gunner Succu</name>
+      <set>WD05</set>
+      <id>WD05-014</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant D</name>
+      <set>WD05</set>
+      <id>WD05-015</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Servant O</name>
+      <set>WD05</set>
+      <id>WD05-016</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Whole Dark</name>
+      <set>WD05</set>
+      <id>WD05-017</id>
+      <color>B</color>
+      <cost>1B</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Blessing of Remembrance</name>
+      <set>WD05</set>
+      <id>WD05-018</id>
+      <color>C</color>
+      <cost>2C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>ST</rarity>
+   </card>
+   <card>
+      <name>Tama</name>
+      <set>WX01</set>
+      <id>WX01-???</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>0</level>
+      <limit>0</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>SECRET</rarity>
+   </card>
+   <card>
+      <name>Miko of the Sun Tamayorihime</name>
+      <set>WX01</set>
+      <id>WX01-001</id>
+      <color>W</color>
+      <cost>3W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Miko of Dawn Tamayorihime</name>
+      <set>WX01</set>
+      <id>WX01-002</id>
+      <color>W</color>
+      <cost>2W 2R</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>4</level>
+      <limit>10</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Hundred Gushing Flames Hanayo - Four</name>
+      <set>WX01</set>
+      <id>WX01-003</id>
+      <color>R</color>
+      <cost>3R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Roaring Flames Hanayo - Two Revision</name>
+      <set>WX01</set>
+      <id>WX01-004</id>
+      <color>R</color>
+      <cost>2R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>2</level>
+      <limit>6</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk Omega</name>
+      <set>WX01</set>
+      <id>WX01-005</id>
+      <color>U</color>
+      <cost>3U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Style 4 - War Empress Midoriko</name>
+      <set>WX01</set>
+      <id>WX01-006</id>
+      <color>G</color>
+      <cost>3G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Miko of the Lunar Eclipse Tamayorihime</name>
+      <set>WX01</set>
+      <id>WX01-007</id>
+      <color>W</color>
+      <cost>2W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>3</level>
+      <limit>7</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Miko of Meteors Tamayorihime</name>
+      <set>WX01</set>
+      <id>WX01-008</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>2</level>
+      <limit>4</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Miko of Novas Tamayorihime</name>
+      <set>WX01</set>
+      <id>WX01-009</id>
+      <color>W</color>
+      <cost>0W</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>1</level>
+      <limit>1</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Xeno Gate</name>
+      <set>WX01</set>
+      <id>WX01-010</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Fierce Dancing Flames Hanayo - Three</name>
+      <set>WX01</set>
+      <id>WX01-011</id>
+      <color>R</color>
+      <cost>2R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>3</level>
+      <limit>7</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Strong Flames Hanayo - Two</name>
+      <set>WX01</set>
+      <id>WX01-012</id>
+      <color>R</color>
+      <cost>1R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>2</level>
+      <limit>4</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Blaze Hanayo - One</name>
+      <set>WX01</set>
+      <id>WX01-013</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Hanayo</class>
+      <power/>
+      <level>1</level>
+      <limit>1</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Dominating Fury</name>
+      <set>WX01</set>
+      <id>WX01-014</id>
+      <color>R</color>
+      <cost>3R</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase] or [Attack phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk Gamma</name>
+      <set>WX01</set>
+      <id>WX01-015</id>
+      <color>U</color>
+      <cost>2U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>3</level>
+      <limit>7</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk B</name>
+      <set>WX01</set>
+      <id>WX01-016</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>2</level>
+      <limit>4</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Code Piruluk A</name>
+      <set>WX01</set>
+      <id>WX01-017</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Piruluk</class>
+      <power/>
+      <level>1</level>
+      <limit>1</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Anti Spell</name>
+      <set>WX01</set>
+      <id>WX01-018</id>
+      <color>U</color>
+      <cost>1U 1C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Spell Cut-in]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Type 4 - Charming Empress Midoriko</name>
+      <set>WX01</set>
+      <id>WX01-019</id>
+      <color>G</color>
+      <cost>3G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Type 3 - Ultra Feminine Midoriko</name>
+      <set>WX01</set>
+      <id>WX01-020</id>
+      <color>G</color>
+      <cost>2G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>3</level>
+      <limit>7</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Type 2 - Fighter Bride Midoriko</name>
+      <set>WX01</set>
+      <id>WX01-021</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>2</level>
+      <limit>4</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Type 1 - Dancing Fighter Midoriko</name>
+      <set>WX01</set>
+      <id>WX01-022</id>
+      <color>G</color>
+      <cost>0G</cost>
+      <type>LRIG</type>
+      <class>Midoriko</class>
+      <power/>
+      <level>1</level>
+      <limit>1</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Big Bang</name>
+      <set>WX01</set>
+      <id>WX01-023</id>
+      <color>G</color>
+      <cost>5G 7C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Giant</name>
+      <set>WX01</set>
+      <id>WX01-024</id>
+      <color>G</color>
+      <cost>0G</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing>[Main phase], [Attack phase] or [Spell Cut-in]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Salvage</name>
+      <set>WX01</set>
+      <id>WX01-025</id>
+      <color>C</color>
+      <cost>1C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Charging</name>
+      <set>WX01</set>
+      <id>WX01-026</id>
+      <color>C</color>
+      <cost>0C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Primordial Spear Energe</name>
+      <set>WX01</set>
+      <id>WX01-027</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Arch Aura</name>
+      <set>WX01</set>
+      <id>WX01-028</id>
+      <color>W</color>
+      <cost>5W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Silk Pyroxene Adamasphere</name>
+      <set>WX01</set>
+      <id>WX01-029</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Flames of Atonement</name>
+      <set>WX01</set>
+      <id>WX01-030</id>
+      <color>R</color>
+      <cost>3R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Code Heart V . A . C</name>
+      <set>WX01</set>
+      <id>WX01-031</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>SNATCHER</name>
+      <set>WX01</set>
+      <id>WX01-032</id>
+      <color>U</color>
+      <cost>2U 1C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast God Osaki</name>
+      <set>WX01</set>
+      <id>WX01-033</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Restoration</name>
+      <set>WX01</set>
+      <id>WX01-034</id>
+      <color>G</color>
+      <cost>3G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Goddess of Blessings Athena</name>
+      <set>WX01</set>
+      <id>WX01-035</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Angel</class>
+      <power>10000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Giant Bow Catapul</name>
+      <set>WX01</set>
+      <id>WX01-036</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Unforgettable Illusion Valkyrie</name>
+      <set>WX01</set>
+      <id>WX01-037</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Angel</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Get Dantalian</name>
+      <set>WX01</set>
+      <id>WX01-038</id>
+      <color>W</color>
+      <cost>1W 1R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Ballista Cannon</name>
+      <set>WX01</set>
+      <id>WX01-039</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Weapon</class>
+      <power>10000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Orichalc</name>
+      <set>WX01</set>
+      <id>WX01-040</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Roaring Cannon Ordnance</name>
+      <set>WX01</set>
+      <id>WX01-041</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Weapon</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Fissure of Judgment</name>
+      <set>WX01</set>
+      <id>WX01-042</id>
+      <color>R</color>
+      <cost>3R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Phantom Water Arial</name>
+      <set>WX01</set>
+      <id>WX01-043</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Water Beast</class>
+      <power>10000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Code Art P . Z . L</name>
+      <set>WX01</set>
+      <id>WX01-044</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Phantom Water Sharklance</name>
+      <set>WX01</set>
+      <id>WX01-045</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Water Beast</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>BAD CONDITION</name>
+      <set>WX01</set>
+      <id>WX01-046</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Mandore</name>
+      <set>WX01</set>
+      <id>WX01-047</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>10000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Bigtat</name>
+      <set>WX01</set>
+      <id>WX01-048</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Baromet</name>
+      <set>WX01</set>
+      <id>WX01-049</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Enlargement</name>
+      <set>WX01</set>
+      <id>WX01-050</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Servant Q</name>
+      <set>WX01</set>
+      <id>WX01-051</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Comprehensive Knowledge</name>
+      <set>WX01</set>
+      <id>WX01-052</id>
+      <color>C</color>
+      <cost>2C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Ultimate Sword Godeater</name>
+      <set>WX01</set>
+      <id>WX01-053</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>15000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Ultimate Shield Aegis</name>
+      <set>WX01</set>
+      <id>WX01-054</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Large Shield Riot</name>
+      <set>WX01</set>
+      <id>WX01-055</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Medium Shield Square</name>
+      <set>WX01</set>
+      <id>WX01-056</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Drawn Bow Sephiram</name>
+      <set>WX01</set>
+      <id>WX01-057</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Discussion of Redoing Mikael</name>
+      <set>WX01</set>
+      <id>WX01-058</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Angel</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Drawn Bow Bow</name>
+      <set>WX01</set>
+      <id>WX01-059</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Small Shield Round</name>
+      <set>WX01</set>
+      <id>WX01-060</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Idea of Quest Haniel</name>
+      <set>WX01</set>
+      <id>WX01-061</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Angel</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Get Open</name>
+      <set>WX01</set>
+      <id>WX01-062</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Get Ready</name>
+      <set>WX01</set>
+      <id>WX01-063</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Metallica</name>
+      <set>WX01</set>
+      <id>WX01-064</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>15000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Emeralda</name>
+      <set>WX01</set>
+      <id>WX01-065</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Rubyl</name>
+      <set>WX01</set>
+      <id>WX01-066</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Rin</name>
+      <set>WX01</set>
+      <id>WX01-067</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>10000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Kohaku</name>
+      <set>WX01</set>
+      <id>WX01-068</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Explosive Cannon Launchan</name>
+      <set>WX01</set>
+      <id>WX01-069</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Weapon</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Mecuri</name>
+      <set>WX01</set>
+      <id>WX01-070</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Mineral</class>
+      <power>7000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Sapphi</name>
+      <set>WX01</set>
+      <id>WX01-071</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Small Cannon Dragunov</name>
+      <set>WX01</set>
+      <id>WX01-072</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Weapon</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Falling Star Fireball</name>
+      <set>WX01</set>
+      <id>WX01-073</id>
+      <color>R</color>
+      <cost>3R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Prism Pillar of Fire</name>
+      <set>WX01</set>
+      <id>WX01-074</id>
+      <color>R</color>
+      <cost>1W 1R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Art A . S . M</name>
+      <set>WX01</set>
+      <id>WX01-075</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>15000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Art I . D . O . L</name>
+      <set>WX01</set>
+      <id>WX01-076</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Art A . D . B</name>
+      <set>WX01</set>
+      <id>WX01-077</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Art S . T . G</name>
+      <set>WX01</set>
+      <id>WX01-078</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Art W . T . C</name>
+      <set>WX01</set>
+      <id>WX01-079</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Water Shakotan</name>
+      <set>WX01</set>
+      <id>WX01-080</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Water Beast</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Art T . V</name>
+      <set>WX01</set>
+      <id>WX01-081</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Piruluk</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Art F . A . N</name>
+      <set>WX01</set>
+      <id>WX01-082</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Water Kumanomin</name>
+      <set>WX01</set>
+      <id>WX01-083</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Water Beast</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>THREE OUT</name>
+      <set>WX01</set>
+      <id>WX01-084</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>FREEZE</name>
+      <set>WX01</set>
+      <id>WX01-085</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Eagle</name>
+      <set>WX01</set>
+      <id>WX01-086</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Sky Beast</class>
+      <power>15000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Cait Sith</name>
+      <set>WX01</set>
+      <id>WX01-087</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Owl</name>
+      <set>WX01</set>
+      <id>WX01-088</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Sky Beast</class>
+      <power>10000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Kuro</name>
+      <set>WX01</set>
+      <id>WX01-089</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Sparrow</name>
+      <set>WX01</set>
+      <id>WX01-090</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Sky Beast</class>
+      <power>7000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Koalan</name>
+      <set>WX01</set>
+      <id>WX01-091</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Shiro</name>
+      <set>WX01</set>
+      <id>WX01-092</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Dandelion</name>
+      <set>WX01</set>
+      <id>WX01-093</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Swallow</name>
+      <set>WX01</set>
+      <id>WX01-094</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Sky Beast</class>
+      <power>3000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Pandan</name>
+      <set>WX01</set>
+      <id>WX01-095</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Mi-Ke</name>
+      <set>WX01</set>
+      <id>WX01-096</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Salvia</name>
+      <set>WX01</set>
+      <id>WX01-097</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Living Sprout</name>
+      <set>WX01</set>
+      <id>WX01-098</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Reversal Exit</name>
+      <set>WX01</set>
+      <id>WX01-099</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Servant T</name>
+      <set>WX01</set>
+      <id>WX01-100</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Servant D</name>
+      <set>WX01</set>
+      <id>WX01-101</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Servant O</name>
+      <set>WX01</set>
+      <id>WX01-102</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Surging Knowledge</name>
+      <set>WX01</set>
+      <id>WX01-103</id>
+      <color>C</color>
+      <cost>0C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Miko of Fragrant Olives Tamayorihime</name>
+      <set>WX02</set>
+      <id>WX02-001</id>
+      <color>W</color>
+      <cost>1W 1R 1G</cost>
+      <type>LRIG</type>
+      <class>Tama</class>
+      <power/>
+      <level>4</level>
+      <limit>12</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Fiery Nature's Beauty Yuzuki - Four</name>
+      <set>WX02</set>
+      <id>WX02-002</id>
+      <color>R</color>
+      <cost>2R 2G</cost>
+      <type>LRIG</type>
+      <class>Hanayo / Yuzuki</class>
+      <power/>
+      <level>4</level>
+      <limit>10</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Eldora x Mark IV</name>
+      <set>WX02</set>
+      <id>WX02-003</id>
+      <color>U</color>
+      <cost>3U</cost>
+      <type>LRIG</type>
+      <class>Eldora</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Enma of Eternity, Ulith</name>
+      <set>WX02</set>
+      <id>WX02-004</id>
+      <color>B</color>
+      <cost>3B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>4</level>
+      <limit>11</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>White Hope</name>
+      <set>WX02</set>
+      <id>WX02-005</id>
+      <color>W</color>
+      <cost>2W 1R</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing>[Main phase] or [Attack phase]</timing>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Black Desire</name>
+      <set>WX02</set>
+      <id>WX02-006</id>
+      <color>B</color>
+      <cost>2B 1C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing>[Main phase] or [Attack phase]</timing>
+      <guard/>
+      <rarity>LR</rarity>
+   </card>
+   <card>
+      <name>Roaring Flames Sin Yuzuki - Three</name>
+      <set>WX02</set>
+      <id>WX02-007</id>
+      <color>R</color>
+      <cost>1R 1G</cost>
+      <type>LRIG</type>
+      <class>Hanayo / Yuzuki</class>
+      <power/>
+      <level>3</level>
+      <limit>7</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Flames of Repentance Yuzuki - Two</name>
+      <set>WX02</set>
+      <id>WX02-008</id>
+      <color>R</color>
+      <cost>1R</cost>
+      <type>LRIG</type>
+      <class>Hanayo / Yuzuki</class>
+      <power/>
+      <level>2</level>
+      <limit>5</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Blaze Yuzuki - One</name>
+      <set>WX02</set>
+      <id>WX02-009</id>
+      <color>R</color>
+      <cost>0R</cost>
+      <type>LRIG</type>
+      <class>Hanayo / Yuzuki</class>
+      <power/>
+      <level>1</level>
+      <limit>2</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Eldora x Mark III</name>
+      <set>WX02</set>
+      <id>WX02-010</id>
+      <color>U</color>
+      <cost>2U</cost>
+      <type>LRIG</type>
+      <class>Eldora</class>
+      <power/>
+      <level>3</level>
+      <limit>8</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Eldora x Mark II</name>
+      <set>WX02</set>
+      <id>WX02-011</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>LRIG</type>
+      <class>Eldora</class>
+      <power/>
+      <level>2</level>
+      <limit>5</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Eldora x Mark I</name>
+      <set>WX02</set>
+      <id>WX02-012</id>
+      <color>U</color>
+      <cost>0U</cost>
+      <type>LRIG</type>
+      <class>Eldora</class>
+      <power/>
+      <level>1</level>
+      <limit>2</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Enma of the Screaming Hell, Ulith</name>
+      <set>WX02</set>
+      <id>WX02-013</id>
+      <color>B</color>
+      <cost>2B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>3</level>
+      <limit>7</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Enma of the Black Threads Hell, Ulith</name>
+      <set>WX02</set>
+      <id>WX02-014</id>
+      <color>B</color>
+      <cost>1B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>2</level>
+      <limit>4</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Enma of the Reviving Hell, Ulith</name>
+      <set>WX02</set>
+      <id>WX02-015</id>
+      <color>B</color>
+      <cost>0B</cost>
+      <type>LRIG</type>
+      <class>Ulith</class>
+      <power/>
+      <level>1</level>
+      <limit>1</limit>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Gothic Boundary</name>
+      <set>WX02</set>
+      <id>WX02-016</id>
+      <color>W</color>
+      <cost>1W 2C</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main Phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Blazing Glory</name>
+      <set>WX02</set>
+      <id>WX02-017</id>
+      <color>R</color>
+      <cost>1R 1G</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Yuzuki</restriction>
+      <timing>[Main Phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Fire-red Willow-green</name>
+      <set>WX02</set>
+      <id>WX02-018</id>
+      <color>R</color>
+      <cost>1R</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main Phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Cross Life Cloth</name>
+      <set>WX02</set>
+      <id>WX02-019</id>
+      <color>U</color>
+      <cost>1U</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Eldora</restriction>
+      <timing>[Main Phase]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Bloody Slash</name>
+      <set>WX02</set>
+      <id>WX02-020</id>
+      <color>B</color>
+      <cost>2B</cost>
+      <type>Arts</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing>[Main phase], [Attack phase] or [Spell Cut-in]</timing>
+      <guard/>
+      <rarity>LC</rarity>
+   </card>
+   <card>
+      <name>Herald Archangel Archgain</name>
+      <set>WX02</set>
+      <id>WX02-021</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Angel</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Ballista Gunsnipe</name>
+      <set>WX02</set>
+      <id>WX02-022</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Weapon</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Phantom Water Princess Spiral Carmilla</name>
+      <set>WX02</set>
+      <id>WX02-023</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Water Beast</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Princess Gauche Agnes</name>
+      <set>WX02</set>
+      <id>WX02-024</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Demon Princess Anna Mirage</name>
+      <set>WX02</set>
+      <id>WX02-025</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>12000</power>
+      <level>4</level>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Wish Crisis</name>
+      <set>WX02</set>
+      <id>WX02-026</id>
+      <color>W</color>
+      <cost>1W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Scorched Earth's Reward</name>
+      <set>WX02</set>
+      <id>WX02-027</id>
+      <color>R</color>
+      <cost>2R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Enigma Aura</name>
+      <set>WX02</set>
+      <id>WX02-028</id>
+      <color>B</color>
+      <cost>2B</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>SR</rarity>
+   </card>
+   <card>
+      <name>Noble Weapon Mitsurugi</name>
+      <set>WX02</set>
+      <id>WX02-029</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Noble Weapon Mikagami</name>
+      <set>WX02</set>
+      <id>WX02-030</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Get Bound</name>
+      <set>WX02</set>
+      <id>WX02-031</id>
+      <color>W</color>
+      <cost>2W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Oparal</name>
+      <set>WX02</set>
+      <id>WX02-032</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Carnelian</name>
+      <set>WX02</set>
+      <id>WX02-033</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Unwanted Impulse</name>
+      <set>WX02</set>
+      <id>WX02-034</id>
+      <color>R</color>
+      <cost>1R 1G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Yuzuki</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Code Art C . P . U</name>
+      <set>WX02</set>
+      <id>WX02-035</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Code Art G . R . B</name>
+      <set>WX02</set>
+      <id>WX02-036</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>SPRASH</name>
+      <set>WX02</set>
+      <id>WX02-037</id>
+      <color>U</color>
+      <cost>1U 1C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Kiji</name>
+      <set>WX02</set>
+      <id>WX02-038</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Sky Beast</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Hachi</name>
+      <set>WX02</set>
+      <id>WX02-039</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Plant Wear</name>
+      <set>WX02</set>
+      <id>WX02-040</id>
+      <color>G</color>
+      <cost>2G 3C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Heavy Loss</name>
+      <set>WX02</set>
+      <id>WX02-041</id>
+      <color>G</color>
+      <cost>2G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Code Anti Baalbek</name>
+      <set>WX02</set>
+      <id>WX02-042</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Ancient Weapon</class>
+      <power>10000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Code Anti Kythera</name>
+      <set>WX02</set>
+      <id>WX02-043</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Ancient Weapon</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Cause of Deadly Sins Baal</name>
+      <set>WX02</set>
+      <id>WX02-044</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Sacrifice Slash</name>
+      <set>WX02</set>
+      <id>WX02-045</id>
+      <color>B</color>
+      <cost>3B</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>R</rarity>
+   </card>
+   <card>
+      <name>Smile of Sacrifice Curael</name>
+      <set>WX02</set>
+      <id>WX02-046</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Angel</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Fiction Lover Ciel</name>
+      <set>WX02</set>
+      <id>WX02-047</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Angel</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Noble Weapon Magatama</name>
+      <set>WX02</set>
+      <id>WX02-048</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Arm</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Tama</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Focused Philanthrop Saniel</name>
+      <set>WX02</set>
+      <id>WX02-049</id>
+      <color>W</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Angel</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Sword Ability</name>
+      <set>WX02</set>
+      <id>WX02-050</id>
+      <color>W</color>
+      <cost>2W</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Roaring Cannon LauncherGear</name>
+      <set>WX02</set>
+      <id>WX02-051</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Weapon</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Explosive Cannon MP5</name>
+      <set>WX02</set>
+      <id>WX02-052</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Weapon</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Stone Hisui</name>
+      <set>WX02</set>
+      <id>WX02-053</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Jewel</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Hanayo</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Small Cannon Smith</name>
+      <set>WX02</set>
+      <id>WX02-054</id>
+      <color>R</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Martial Spirit : Weapon</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Light-hungry Treasured Sword</name>
+      <set>WX02</set>
+      <id>WX02-055</id>
+      <color>R</color>
+      <cost>1R</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Water Octo</name>
+      <set>WX02</set>
+      <id>WX02-056</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Water Beast</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Water Pearl</name>
+      <set>WX02</set>
+      <id>WX02-057</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Water Beast</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Art M . M . R</name>
+      <set>WX02</set>
+      <id>WX02-058</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Electrical Machine</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Water Kozame</name>
+      <set>WX02</set>
+      <id>WX02-059</id>
+      <color>U</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Water Beast</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>SEARCHER</name>
+      <set>WX02</set>
+      <id>WX02-060</id>
+      <color>U</color>
+      <cost>1C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>BLUEGAIN</name>
+      <set>WX02</set>
+      <id>WX02-061</id>
+      <color>U</color>
+      <cost>1U 1C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Mizuaoi</name>
+      <set>WX02</set>
+      <id>WX02-062</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Hasu</name>
+      <set>WX02</set>
+      <id>WX02-063</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Phantom Beast Monki</name>
+      <set>WX02</set>
+      <id>WX02-064</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Life Spirit : Earth Beast</class>
+      <power>1000</power>
+      <level>2</level>
+      <limit/>
+      <restriction>Midoriko</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Silk Plant Suberia</name>
+      <set>WX02</set>
+      <id>WX02-065</id>
+      <color>G</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Silk Spirit : Plant</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Abundance</name>
+      <set>WX02</set>
+      <id>WX02-066</id>
+      <color>G</color>
+      <cost>1G</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Demonic Sequence Lilith</name>
+      <set>WX02</set>
+      <id>WX02-067</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>15000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Demonic Bravery Moriga</name>
+      <set>WX02</set>
+      <id>WX02-068</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Anti Nebula</name>
+      <set>WX02</set>
+      <id>WX02-069</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Ancient Weapon</class>
+      <power>8000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>True Death God Anima</name>
+      <set>WX02</set>
+      <id>WX02-070</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Anti Delhi</name>
+      <set>WX02</set>
+      <id>WX02-071</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Ancient Weapon</class>
+      <power>5000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Anti Machupi</name>
+      <set>WX02</set>
+      <id>WX02-072</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Ancient Weapon</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Code Anti Texahammer</name>
+      <set>WX02</set>
+      <id>WX02-073</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Machine Spirit : Ancient Weapon</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Gloom of Lesser Evil Grim</name>
+      <set>WX02</set>
+      <id>WX02-074</id>
+      <color>B</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Icon Spirit : Demon</class>
+      <power>2000</power>
+      <level>1</level>
+      <limit/>
+      <restriction>Ulith</restriction>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Grave Maker</name>
+      <set>WX02</set>
+      <id>WX02-075</id>
+      <color>B</color>
+      <cost>0B</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Servant Q2</name>
+      <set>WX02</set>
+      <id>WX02-076</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>10000</power>
+      <level>4</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Servant T2</name>
+      <set>WX02</set>
+      <id>WX02-077</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>7000</power>
+      <level>3</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Servant D2</name>
+      <set>WX02</set>
+      <id>WX02-078</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>3000</power>
+      <level>2</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Servant O2</name>
+      <set>WX02</set>
+      <id>WX02-079</id>
+      <color>C</color>
+      <cost/>
+      <type>SIGNI</type>
+      <class>Element Spirit</class>
+      <power>1000</power>
+      <level>1</level>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard>G</guard>
+      <rarity>C</rarity>
+   </card>
+   <card>
+      <name>Blessing of Remembrance</name>
+      <set>WX02</set>
+      <id>WX02-080</id>
+      <color>C</color>
+      <cost>2C</cost>
+      <type>Spell</type>
+      <class/>
+      <power/>
+      <level/>
+      <limit/>
+      <restriction/>
+      <timing/>
+      <guard/>
+      <rarity>C</rarity>
+   </card>
+</cards>
